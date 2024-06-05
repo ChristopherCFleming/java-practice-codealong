@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/module01-codealong-rpg-inventory-staterfiles-ChristopherCFleming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roguelike" vcs="Git" />
   </component>
 </project>
