@@ -8,7 +8,7 @@ public class Daycare {
 
 
     public static void main(String[] args) {
-    startUp();
+        startUp();
     }//end of main class
 
     public static void startUp(){
